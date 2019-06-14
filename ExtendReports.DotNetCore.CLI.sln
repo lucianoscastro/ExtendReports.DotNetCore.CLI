@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendReports.DotNetCore.CLI", "SRC\ExtendReports.DotNetCore.CLI.csproj", "{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{D3BAA29B-68D7-46F3-AE5D-6EDED1B67524}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TST", "TST", "{B96DE8EE-8157-4913-8445-067D242C33E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{333FD864-CBA2-4D4F-91BA-86D8CD5D6BFA} = {D3BAA29B-68D7-46F3-AE5D-6EDED1B67524}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6515EC49-4E50-44E8-BB18-AA381C8FB7DF}
+	EndGlobalSection
+EndGlobal

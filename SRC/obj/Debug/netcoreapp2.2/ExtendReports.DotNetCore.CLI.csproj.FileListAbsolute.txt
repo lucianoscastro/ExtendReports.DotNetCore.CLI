@@ -1,0 +1,13 @@
+D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.deps.json
+D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.runtimeconfig.json
+D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.runtimeconfig.dev.json
+D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.dll
+D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.pdb
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.csprojAssemblyReference.cache
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.csproj.CoreCompileInputs.cache
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.AssemblyInfoInputs.cache
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.AssemblyInfo.cs
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.dll
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.pdb
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.shiminput.cache
+D:\ExtendReports.DotNetCore.CLI\SRC\obj\Debug\netcoreapp2.2\ExtendReports.DotNetCore.CLI.shimcreated.sentinel

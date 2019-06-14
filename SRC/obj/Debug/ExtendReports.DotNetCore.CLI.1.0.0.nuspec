@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ExtendReports.DotNetCore.CLI</id>
+    <version>1.0.0</version>
+    <authors>ExtendReports.DotNetCore.CLI</authors>
+    <owners>ExtendReports.DotNetCore.CLI</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ExtendReports.DotNetCore.CLI.deps.json" target="tools\netcoreapp2.2\any\ExtendReports.DotNetCore.CLI.deps.json" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ExtendReports.DotNetCore.CLI.runtimeconfig.json" target="tools\netcoreapp2.2\any\ExtendReports.DotNetCore.CLI.runtimeconfig.json" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\obj\DotnetToolSettings.xml" target="tools\netcoreapp2.2\any\DotnetToolSettings.xml" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ExtendReports.DotNetCore.CLI.dll" target="tools\netcoreapp2.2\any\ExtendReports.DotNetCore.CLI.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ExtendReports.DotNetCore.CLI.pdb" target="tools\netcoreapp2.2\any\ExtendReports.DotNetCore.CLI.pdb" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\DnsClient.dll" target="tools\netcoreapp2.2\any\DnsClient.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Enums.NET.dll" target="tools\netcoreapp2.2\any\Enums.NET.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ExtentReports.dll" target="tools\netcoreapp2.2\any\ExtentReports.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\HtmlAgilityPack.dll" target="tools\netcoreapp2.2\any\HtmlAgilityPack.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\McMaster.NETCore.Plugins.dll" target="tools\netcoreapp2.2\any\McMaster.NETCore.Plugins.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.AspNetCore.Html.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.AspNetCore.Html.Abstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.AspNetCore.Razor.dll" target="tools\netcoreapp2.2\any\Microsoft.AspNetCore.Razor.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.AspNetCore.Razor.Language.dll" target="tools\netcoreapp2.2\any\Microsoft.AspNetCore.Razor.Language.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.AspNetCore.Razor.Runtime.dll" target="tools\netcoreapp2.2\any\Microsoft.AspNetCore.Razor.Runtime.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.CodeAnalysis.dll" target="tools\netcoreapp2.2\any\Microsoft.CodeAnalysis.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.CodeAnalysis.CSharp.dll" target="tools\netcoreapp2.2\any\Microsoft.CodeAnalysis.CSharp.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.DotNet.PlatformAbstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.DotNet.PlatformAbstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.CommandLineUtils.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.CommandLineUtils.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.Abstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.Binder.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.Binder.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.CommandLine.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.CommandLine.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.FileExtensions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.FileExtensions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Configuration.Json.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Configuration.Json.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.DependencyInjection.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.DependencyInjection.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.DependencyModel.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.DependencyModel.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.FileProviders.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.FileProviders.Abstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.FileProviders.Physical.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.FileProviders.Physical.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.FileSystemGlobbing.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.FileSystemGlobbing.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Logging.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Logging.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Logging.Abstractions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Logging.Configuration.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Logging.Configuration.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Logging.Console.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Logging.Console.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Logging.Debug.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Logging.Debug.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Options.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Options.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Microsoft.Extensions.Primitives.dll" target="tools\netcoreapp2.2\any\Microsoft.Extensions.Primitives.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\MongoDB.Bson.dll" target="tools\netcoreapp2.2\any\MongoDB.Bson.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\MongoDB.Driver.dll" target="tools\netcoreapp2.2\any\MongoDB.Driver.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\MongoDB.Driver.Core.dll" target="tools\netcoreapp2.2\any\MongoDB.Driver.Core.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\Newtonsoft.Json.dll" target="tools\netcoreapp2.2\any\Newtonsoft.Json.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\RazorEngine.NetCore.dll" target="tools\netcoreapp2.2\any\RazorEngine.NetCore.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ReportGenerator.Core.dll" target="tools\netcoreapp2.2\any\ReportGenerator.Core.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\ReportGenerator.DotnetCorePluginLoader.dll" target="tools\netcoreapp2.2\any\ReportGenerator.DotnetCorePluginLoader.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.Core.dll" target="tools\netcoreapp2.2\any\SixLabors.Core.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.Fonts.dll" target="tools\netcoreapp2.2\any\SixLabors.Fonts.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.ImageSharp.dll" target="tools\netcoreapp2.2\any\SixLabors.ImageSharp.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.ImageSharp.Drawing.dll" target="tools\netcoreapp2.2\any\SixLabors.ImageSharp.Drawing.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.Shapes.dll" target="tools\netcoreapp2.2\any\SixLabors.Shapes.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\SixLabors.Shapes.Text.dll" target="tools\netcoreapp2.2\any\SixLabors.Shapes.Text.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Configuration.ConfigurationManager.dll" target="tools\netcoreapp2.2\any\System.Configuration.ConfigurationManager.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Runtime.CompilerServices.Unsafe.dll" target="tools\netcoreapp2.2\any\System.Runtime.CompilerServices.Unsafe.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Security.Cryptography.ProtectedData.dll" target="tools\netcoreapp2.2\any\System.Security.Cryptography.ProtectedData.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Security.Permissions.dll" target="tools\netcoreapp2.2\any\System.Security.Permissions.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Text.Encodings.Web.dll" target="tools\netcoreapp2.2\any\System.Text.Encodings.Web.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\System.Xml.XPath.XmlDocument.dll" target="tools\netcoreapp2.2\any\System.Xml.XPath.XmlDocument.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll" target="tools\netcoreapp2.2\any\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" target="tools\netcoreapp2.2\any\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" />
+    <file src="D:\ExtendReports.DotNetCore.CLI\SRC\bin\Debug\netcoreapp2.2\publish\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" target="tools\netcoreapp2.2\any\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll" />
+  </files>
+</package>
