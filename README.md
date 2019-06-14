@@ -1,6 +1,6 @@
 # ExtendReports.DotNetCore.CLI
 
-Projeto para desenvolver um dotnet tool com objetivo de gerar relatórios da execução detestes unitários e de comportamento. Para gerar os relatórios o aplicativo utiliza o arquivo TRX e o XML gerados como output dos testes, com base nos arquivos TRX e COVERAGE, gerar relatórios com os testes unitários e de comportamento
+Projeto para desenvolver um dotnet tool com objetivo de gerar relatórios da execução detestes unitários e de comportamento. Para gerar os relatórios o aplicativo utiliza o arquivo TRX e o XML gerados como output dos testes.
 
 
 Primeiro você deve executar os testes xUnit com o seguinte comando:
