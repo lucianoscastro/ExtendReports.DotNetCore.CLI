@@ -2,7 +2,7 @@
   "profiles": {
     "ExtendReports.DotNetCore.CLI": {
       "commandName": "Project",
-      "commandLineArgs": "-s D:\\ProjetoBase\\CalculoJuros.Test\\TestResult  -o D:\\ProjetoBase\\CalculoJuros.Test\\TestResult\\gerado -t A "
+      "commandLineArgs": "-s D:\\ProjetoBase\\CalculoJuros.Test\\TestResult  -o D:\\ProjetoBase\\CalculoJuros.Test\\TestResult\\gerado "
     }
   }
 }
